@@ -11,7 +11,7 @@
     "build": "tsc -p .",
     "dev": "ts-node-dev --transpile-only --ignore-watch node_modules src/index.ts"
   },
-  "author": "Guilherme Ferrari",
+  "author": "Jake Tompkins",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jaketompkins/html-pdf-node-ts/issues"
